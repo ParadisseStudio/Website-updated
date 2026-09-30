@@ -1,0 +1,415 @@
+[
+ {
+  "name": "clip-01",
+  "type": "video",
+  "category": "Nail art",
+  "alt": "Hand-painted almond gel nails with orange and navy stripes, blueberry vines and lemon accents at Paradisse Studio, Richmond Hill",
+  "caption": "Hand-painted fruit and stripe set on almond gel",
+  "src": "assets/gallery/clip-01.mp4",
+  "poster": "assets/gallery/clip-01-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M4S",
+  "date": "2026-09-30",
+  "desc": "Almond-shaped gel nails hand-painted by our nail artist: white bases with blueberry vines, tiny oranges and lemons, mixed with bold orange and navy candy stripes. A playful summer nail art set finished over a Russian manicure.",
+  "tags": [
+   "almond nails",
+   "fruit nail art",
+   "striped nails",
+   "summer nails"
+  ]
+ },
+ {
+  "name": "clip-02",
+  "type": "video",
+  "category": "Nails",
+  "alt": "Short square gel manicure in sky blue, chocolate brown and burnt orange at Paradisse Studio, Richmond Hill",
+  "caption": "Short square gel in sky blue, chocolate and burnt orange",
+  "src": "assets/gallery/clip-02.mp4",
+  "poster": "assets/gallery/clip-02-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M5S",
+  "date": "2026-09-30",
+  "desc": "A short square gel manicure in three glossy shades, sky blue, chocolate brown and burnt orange, worn as a mismatched set. Simple, wearable colour blocking that suits short natural nails.",
+  "tags": [
+   "short square nails",
+   "colour block nails",
+   "gel manicure"
+  ]
+ },
+ {
+  "name": "clip-03",
+  "type": "video",
+  "category": "Nail art",
+  "alt": "Matte black almond gel nails with a white, gold foil and black sugar-texture accent nail at Paradisse Studio, Richmond Hill",
+  "caption": "Matte black almond set with gold foil and textured accent",
+  "src": "assets/gallery/clip-03.mp4",
+  "poster": "assets/gallery/clip-03-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M7S",
+  "date": "2026-09-30",
+  "desc": "Matte black almond gel nails with one statement accent: white and gold foil beside a black sugar-texture tip. A moody, editorial nail art set with a velvet matte top coat.",
+  "tags": [
+   "matte black nails",
+   "gold foil nails",
+   "almond nails",
+   "accent nail"
+  ]
+ },
+ {
+  "name": "clip-04",
+  "type": "video",
+  "category": "Nail art",
+  "alt": "Sheer nude gel nails with emerald green French tips, hand-painted holly berries and a snowflake at Paradisse Studio, Richmond Hill",
+  "caption": "Emerald French tips with hand-painted holly and snowflake",
+  "src": "assets/gallery/clip-04.mp4",
+  "poster": "assets/gallery/clip-04-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M2S",
+  "date": "2026-09-30",
+  "desc": "Sheer nude gel with deep emerald green French tips, a hand-painted holly berry sprig and a fine white snowflake. Festive winter nail art on short round nails.",
+  "tags": [
+   "green French tips",
+   "holiday nails",
+   "winter nail art",
+   "holly nails"
+  ]
+ },
+ {
+  "name": "photo-01",
+  "type": "image",
+  "category": "Nails",
+  "alt": "Almond gel manicure in a soft shimmering nude-taupe at Paradisse Studio, Richmond Hill",
+  "caption": "Shimmer nude almond gel manicure",
+  "src": "assets/gallery/photo-01.jpg",
+  "thumb": "assets/gallery/photo-01-thumb.jpg",
+  "w": 960,
+  "h": 1280,
+  "desc": "Almond gel manicure in a soft shimmering nude-taupe with a pearl sheen, photographed after a Russian manicure. Understated and elegant for everyday wear.",
+  "tags": [
+   "nude nails",
+   "shimmer nails",
+   "almond nails",
+   "taupe nails"
+  ]
+ },
+ {
+  "name": "photo-02",
+  "type": "image",
+  "category": "Nails",
+  "alt": "Milky white almond gel nails with a soft pearl finish at Paradisse Studio, Richmond Hill",
+  "caption": "Milky white almond set with a pearl glow",
+  "src": "assets/gallery/photo-02.jpg",
+  "thumb": "assets/gallery/photo-02-thumb.jpg",
+  "w": 496,
+  "h": 544,
+  "desc": "Milky white almond gel nails with a soft pearl finish, a clean minimal set that reads white in daylight and iridescent in the sun.",
+  "tags": [
+   "milky white nails",
+   "pearl nails",
+   "almond nails",
+   "minimal nails"
+  ]
+ },
+ {
+  "name": "photo-03",
+  "type": "image",
+  "category": "Nail art",
+  "alt": "Square gel nails with coral and orange ombre French tips, black animal-print strokes and a 3D flower accent at Paradisse Studio, Richmond Hill",
+  "caption": "Sunset ombre French tips with animal print and a 3D flower",
+  "src": "assets/gallery/photo-03.jpg",
+  "thumb": "assets/gallery/photo-03-thumb.jpg",
+  "w": 960,
+  "h": 1280,
+  "desc": "Square gel nails with coral-to-orange ombre French tips, black animal-print brush strokes and a sculpted 3D flower accent. Statement summer nail art.",
+  "tags": [
+   "ombre French tips",
+   "animal print nails",
+   "3D nail art",
+   "square nails"
+  ]
+ },
+ {
+  "name": "clip-05",
+  "type": "video",
+  "category": "Nails",
+  "alt": "Close-up of a glossy coral red gel manicure on round nails at Paradisse Studio, Richmond Hill",
+  "caption": "Glossy coral red gel on round nails",
+  "src": "assets/gallery/clip-05.mp4",
+  "poster": "assets/gallery/clip-05-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M6S",
+  "date": "2026-09-30",
+  "desc": "Close-up of a glossy coral red gel manicure on short round nails, showing the smooth, flush cuticle line of a Russian manicure with no flooding.",
+  "tags": [
+   "red gel nails",
+   "coral nails",
+   "round nails",
+   "Russian manicure"
+  ]
+ },
+ {
+  "name": "clip-06",
+  "type": "video",
+  "category": "Nail art",
+  "alt": "Almond gel nails in dark chocolate and baby blue with hand-placed polka dots at Paradisse Studio, Richmond Hill",
+  "caption": "Chocolate and baby blue polka-dot almond set",
+  "src": "assets/gallery/clip-06.mp4",
+  "poster": "assets/gallery/clip-06-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M6S",
+  "date": "2026-09-30",
+  "desc": "Almond gel nails in dark chocolate brown and baby blue with hand-placed polka dots swapped between the two colours. A chic, playful two-tone dotted set.",
+  "tags": [
+   "polka dot nails",
+   "two tone nails",
+   "almond nails",
+   "brown nails"
+  ]
+ },
+ {
+  "name": "clip-07",
+  "category": "Nail art",
+  "alt": "Short square French manicure with hand-painted Mickey and Minnie Mouse accent nails at Paradisse Studio, Richmond Hill",
+  "caption": "French tips with hand-painted Mickey and Minnie accents",
+  "type": "video",
+  "src": "assets/gallery/clip-07.mp4",
+  "poster": "assets/gallery/clip-07-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M5S",
+  "date": "2026-09-30",
+  "desc": "Short square white French tips with two hand-painted character accent nails, Mickey and Minnie Mouse, on a glossy black base. Fun, detailed nail art for a theme park trip.",
+  "tags": [
+   "character nail art",
+   "Mickey Mouse nails",
+   "French tips",
+   "short square nails"
+  ]
+ },
+ {
+  "name": "clip-08",
+  "category": "Nail art",
+  "alt": "Deep burgundy almond gel nails with white polka dots at Paradisse Studio, Richmond Hill",
+  "caption": "Burgundy almond set with white polka dots",
+  "type": "video",
+  "src": "assets/gallery/clip-08.mp4",
+  "poster": "assets/gallery/clip-08-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M7S",
+  "date": "2026-09-30",
+  "desc": "Deep burgundy almond gel nails scattered with crisp white polka dots. A classic dotted design with a rich wine-coloured base and a high-gloss finish.",
+  "tags": [
+   "burgundy nails",
+   "polka dot nails",
+   "almond nails",
+   "wine red nails"
+  ]
+ },
+ {
+  "name": "clip-09",
+  "category": "Nail art",
+  "alt": "Sheer nude oval gel nails with silver chrome French tips at Paradisse Studio, Richmond Hill",
+  "caption": "Silver chrome French tips on sheer nude",
+  "type": "video",
+  "src": "assets/gallery/clip-09.mp4",
+  "poster": "assets/gallery/clip-09-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M8S",
+  "date": "2026-09-30",
+  "desc": "Sheer nude oval gel nails finished with fine silver chrome French tips. A modern metallic twist on the classic French manicure.",
+  "tags": [
+   "chrome French tips",
+   "silver chrome nails",
+   "oval nails",
+   "nude nails"
+  ]
+ },
+ {
+  "name": "clip-10",
+  "category": "Nails",
+  "alt": "Close-up of a glossy milky white gel nail with a clean cuticle line after a Russian manicure at Paradisse Studio, Richmond Hill",
+  "caption": "Milky white gel, Russian manicure cuticle work up close",
+  "type": "video",
+  "src": "assets/gallery/clip-10.mp4",
+  "poster": "assets/gallery/clip-10-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M10S",
+  "date": "2026-09-30",
+  "desc": "Extreme close-up of a glossy milky white gel nail showing the clean, even cuticle line that a Russian manicure leaves behind, with no gaps and no polish on the skin.",
+  "tags": [
+   "milky white nails",
+   "Russian manicure",
+   "cuticle work",
+   "gel nail close-up"
+  ]
+ },
+ {
+  "name": "clip-11",
+  "category": "Nail art",
+  "alt": "Stiletto nails in black, baby blue and sheer pink with playful polka dots and a French tip at Paradisse Studio, Richmond Hill",
+  "caption": "Polka-dot stiletto set in black, baby blue and pink",
+  "type": "video",
+  "src": "assets/gallery/clip-11.mp4",
+  "poster": "assets/gallery/clip-11-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M6S",
+  "date": "2026-09-30",
+  "desc": "Long stiletto nails in glossy black, baby blue and sheer pink, each dotted in a contrasting colour, with one white French tip. A bold, playful polka-dot stiletto set.",
+  "tags": [
+   "stiletto nails",
+   "polka dot nails",
+   "baby blue nails",
+   "long nails"
+  ]
+ },
+ {
+  "name": "clip-12",
+  "type": "video",
+  "category": "Nail art",
+  "alt": "Short square nails in shimmering rose-pink cat-eye gel with fine rose-gold chrome lines at Paradisse Studio, Richmond Hill",
+  "caption": "Rose cat-eye shimmer with rose-gold line art",
+  "src": "assets/gallery/clip-12.mp4",
+  "poster": "assets/gallery/clip-12-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M5S",
+  "date": "2026-09-30",
+  "desc": "Short square nails in a rose-pink cat-eye shimmer gel, each finished with a fine rose-gold chrome line that catches the light. Delicate, modern minimal nail art.",
+  "tags": [
+   "cat eye nails",
+   "rose gold nails",
+   "line art nails",
+   "short square nails"
+  ]
+ },
+ {
+  "name": "clip-13",
+  "type": "video",
+  "category": "Nails",
+  "alt": "Sheer pink almond gel manicure with a pearl chrome finish at Paradisse Studio, Richmond Hill",
+  "caption": "Sheer pink pearl chrome almond manicure",
+  "src": "assets/gallery/clip-13.mp4",
+  "poster": "assets/gallery/clip-13-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M10S",
+  "date": "2026-09-30",
+  "desc": "Sheer pink almond gel manicure with a soft pearl chrome finish for a glazed, glass-like glow. An elegant everyday look over a Russian manicure.",
+  "tags": [
+   "pearl chrome nails",
+   "glazed nails",
+   "almond nails",
+   "sheer pink nails"
+  ]
+ },
+ {
+  "name": "clip-14",
+  "type": "video",
+  "category": "Nail art",
+  "alt": "Stiletto nails with red French tips outlined in black and hand-painted red floral vines at Paradisse Studio, Richmond Hill",
+  "caption": "Red French stilettos with hand-painted florals",
+  "src": "assets/gallery/clip-14.mp4",
+  "poster": "assets/gallery/clip-14-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M8S",
+  "date": "2026-09-30",
+  "desc": "Stiletto nails with cherry red French tips outlined in fine black, alternating with sheer nails hand-painted in red floral vines. Bold, romantic nail art.",
+  "tags": [
+   "red French tips",
+   "floral nail art",
+   "stiletto nails",
+   "hand painted nails"
+  ]
+ },
+ {
+  "name": "clip-15",
+  "type": "video",
+  "category": "Nails",
+  "alt": "Long almond gel nails in a glossy milky white at Paradisse Studio, Richmond Hill",
+  "caption": "Milky white long almond set",
+  "src": "assets/gallery/clip-15.mp4",
+  "poster": "assets/gallery/clip-15-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M10S",
+  "date": "2026-09-30",
+  "desc": "Long almond gel nails in a glossy milky white, one of the most requested finishes in our Richmond Hill studio. Clean shape, high shine, flawless cuticles.",
+  "tags": [
+   "milky white nails",
+   "long almond nails",
+   "gel nails",
+   "clean girl nails"
+  ]
+ },
+ {
+  "name": "clip-16",
+  "type": "video",
+  "category": "Nails",
+  "alt": "Short square milky French manicure with crisp white tips at Paradisse Studio, Richmond Hill",
+  "caption": "Classic milky French on short square nails",
+  "src": "assets/gallery/clip-16.mp4",
+  "poster": "assets/gallery/clip-16-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M8S",
+  "date": "2026-09-30",
+  "desc": "Short square milky French manicure with crisp white tips on a soft sheer base. A timeless, natural look that suits every skin tone and occasion.",
+  "tags": [
+   "French manicure",
+   "milky French",
+   "short square nails",
+   "natural nails"
+  ]
+ },
+ {
+  "name": "clip-17",
+  "type": "video",
+  "category": "Nail art",
+  "alt": "Round nails in champagne cat-eye shimmer gel with hand-placed rose polka dots at Paradisse Studio, Richmond Hill",
+  "caption": "Champagne cat-eye shimmer with rose polka dots",
+  "src": "assets/gallery/clip-17.mp4",
+  "poster": "assets/gallery/clip-17-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M10S",
+  "date": "2026-09-30",
+  "desc": "Round nails in a champagne cat-eye shimmer gel with hand-placed rose polka dots. A soft, sparkling design that shifts as the hand moves.",
+  "tags": [
+   "cat eye nails",
+   "champagne nails",
+   "polka dot nails",
+   "round nails"
+  ]
+ },
+ {
+  "name": "clip-18",
+  "type": "video",
+  "category": "Nails",
+  "alt": "Close-up of glossy classic red gel stiletto nails at Paradisse Studio, Richmond Hill",
+  "caption": "Classic glossy red stilettos",
+  "src": "assets/gallery/clip-18.mp4",
+  "poster": "assets/gallery/clip-18-poster.jpg",
+  "w": 464,
+  "h": 848,
+  "duration": "PT0M6S",
+  "date": "2026-09-30",
+  "desc": "Close-up of long, glossy classic red gel stiletto nails, a timeless statement shape and colour with a mirror-like top coat.",
+  "tags": [
+   "red stiletto nails",
+   "classic red nails",
+   "long nails",
+   "gel nails"
+  ]
+ }
+]
